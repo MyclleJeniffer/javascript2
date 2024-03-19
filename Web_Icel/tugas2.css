@@ -1,0 +1,9 @@
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: crimson;
+    color: hotpink;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
